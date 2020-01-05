@@ -1,4 +1,4 @@
-class MMKVCli < Formula
+class MmkvCli < Formula
   desc "A command line tool to access MMKV stores"
   homepage "https://github.com/topkan/mmkv-cli"
   url "https://github.com/topkan/mmkv-cli/releases/download/0.2.0/mmkv-cli.tar.gz"
